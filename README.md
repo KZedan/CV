@@ -43,7 +43,7 @@ Europe's leading programming bootcamp, teaching good practices as well as coding
 * Commitment to best practices and delivering watertight code
 * Independent learner and problem-solver
 * XP, TDD, Agile, pair programming
-* Ruby, Rails, Sinatra, RSpec, Capybara, HTML, CSS, JavaScript, jQuery, Jasmine, PostgreSQL
+* Ruby, Rails, Sinatra, RSpec, Capybara, HTML, CSS, JavaScript, jQuery, Jasmine, PostgreSQL, C#.
 
 
 # Experience
