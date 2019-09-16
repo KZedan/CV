@@ -2,9 +2,9 @@
 
 I was 14 when I downloaded my first C++ book. I then got into music and started playing drums, started gigging and touring. Alongside my musician's career I worked in retail, sales and customer service.
 
-Fast forward 12 years I applied for my first coding course at Makers Aacademy.
+Fast forward 12 years I applied for my first coding course at Makers.
 
-I started at makers barely knowing how to do fizzbuzz in Ruby and graduated having made a VR Pac-Man game in C#.
+I started at Makers barely knowing how to do fizzbuzz in Ruby and graduated having made a VR Pac-Man game in C#.
 
 As a former sales rep, customer service specialist and catering assistant I have a lot more to offer than just problem solving
 skills. I am looking for a software engineering role to progress my skills further.
@@ -31,15 +31,11 @@ As a drummer who toured Europe and the UK I practiced 2-3 hours everyday. I am a
 
 ### Problem Solving
 
-Chess ranking of 1500 on Chess.com plus I do also know numerous chess openings. downloaded a C++ book at 14 years of age. Naturally drawn to problem solving.
+While working on my [Bowling Scorecard](https://github.com/KZedan/bowling-challenge) I got stuck quite a few times with it. I worked on it for two weekends till I finally got it to work.
 
-### Community
+### Multiculturalism
 
-Worked in customer service, sales and retail which gave me lots of practice in customer facing roles.
-
-### Travel and Multiculturalism
-
-Born in England and raised in Egypt, I lived my adolescence in Egypt then moved to England in 2012. Travelled to Spain, Germany, Czech Republic, Ukraine, Italy, Belgium and Holland.
+During Makers I was pairing with someone new everyday. I have paired with people from different countries and backgrounds. 
 
 
 # Education
