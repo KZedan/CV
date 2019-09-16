@@ -53,11 +53,11 @@ Europe's leading programming bootcamp, teaching good practices as well as coding
 
 
 ### West Cornwall Pasty Co. (February 2015 to March 2017)
-<em>Supervisor</em> Started off as sales rep then was trained to Supervisor
+<em>Supervisor</em> Started off as sales rep then was trained to Supervisor.
 
 
 ### Sushi Garden (July 2014 to February 2015)
-<em>Wok Chef</em> Began as the kitchen porter then was promoted to starters then to the Wok Section
+<em>Wok Chef</em> Began as the kitchen porter then was promoted to starters then to the Wok Section.
 
 
 ### Go Mobile (March 2013 to July 2014)
