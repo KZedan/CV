@@ -53,20 +53,15 @@ Europe's leading programming bootcamp, teaching good practices as well as coding
 
 # Experience
 
+### Thieves by the Code (June 2015 to January 2018)
+<em>Drummer</em> Professional Drummer in Thieves by the Code band. we toured all around Europe and the UK. Here's a youtube video of us https://www.youtube.com/watch?v=_1Yz-N5roPo.
+
 ### Holland & Barrett (March 2017 to Sep 2018)
 <em>Supervisor</em> Managed a small team of people, opened and closed shop. 
-
 
 ### West Cornwall Pasty Co. (February 2015 to March 2017)
 <em>Supervisor</em> Started off as sales rep then was trained to Supervisor.
 
-
-### Sushi Garden (July 2014 to February 2015)
-<em>Wok Chef</em> Began as the kitchen porter then was promoted to starters then to the Wok Section.
-
-
-### Go Mobile (March 2013 to July 2014)
-<em>Sales rep</em> Heavily sales based role, sold phones on contract to customers depending on their needs.
 
 # Hobbies
 
