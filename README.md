@@ -40,7 +40,7 @@ During Makers I was pairing with someone new everyday. I have paired with people
 
 # Education
 
-### Makers Academy (June 24 2019 to Sep 13 2019)
+### Makers (June 24 2019 to Sep 13 2019)
 
 Europe's leading programming bootcamp, teaching good practices as well as coding skills
 
