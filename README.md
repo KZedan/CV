@@ -2,14 +2,14 @@
 
 I was 14 when I downloaded my first C++ book. I then got into music and started playing drums, started gigging and touring. Alongside my musician's career I worked in retail, sales and customer service.
 
-Fast forward 12 years I applied for my first coding course at Makers Aacademy. I have to say the experience has been an absolute "Ruby" of a gem!
+Fast forward 12 years I applied for my first coding course at Makers Aacademy.
 
-My started at makers barely knowing how to do fizzbuzz in Ruby and graduated with a VR Pac-Man game final project in C#.
+I started at makers barely knowing how to do fizzbuzz in Ruby and graduated having made a VR Pac-Man game in C#.
 
 As a former sales rep, customer service specialist and catering assistant I have a lot more to offer than just problem solving
 skills. I am looking for a software engineering role to progress my skills further.
 
-Tech Skills: Ruby, Rails, Sinatra, RSpec, Capybara, HTML, CSS, JavaScript (including ES6), jQuery, Jasmine, PostgreSQL, C#.
+Tech Skills: Ruby, C#, Javascript, Python, Rails, Sinatra, RSpec, Capybara, HTML, CSS, Jasmine, PostgreSQL.
 
 Behavioural Skills: XP, TDD, Agile, pair programming, whole-team projects, code reviews
 
@@ -18,7 +18,7 @@ Behavioural Skills: XP, TDD, Agile, pair programming, whole-team projects, code 
 
 ### Discipline
 
-To become a drummer who tours Europe and the UK you need to be good and practice 2-3 hours everyday. I am also a fitness junkie and workout every single day, I also practice combat sports & martial arts, all which require high amounts of discipline.
+As a drummer who tours Europe and the UK I practiced 2-3 hours everyday. I am also a fitness junkie and workout every single day, I also practice combat sports & martial arts, which requires high amounts of discipline.
 
 ### Problem Solving
 
@@ -26,7 +26,7 @@ Chess ranking of 1500 on Chess.com plus I do also know numerous chess openings. 
 
 ### Community
 
-Working in customer service, sales and retail just makes you very good with people. You meet different types of people of different demeanors and personalities. I have been doing this for 7 years.
+Worked in customer service, sales and retail which gave me lots of practice in customer facing roles.
 
 ### Travel and Multiculturalism
 
@@ -68,4 +68,5 @@ Europe's leading programming bootcamp, teaching good practices as well as coding
 * Driving, I love driving
 * Decent Coffee
 * Random meme browsing
+* Ping Pong
 
