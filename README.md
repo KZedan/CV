@@ -17,10 +17,10 @@ Behavioural Skills: XP, TDD, Agile, pair programming, whole-team projects, code 
 
 | Project                                                          | Description                                                                                                                   | Technologies                                     |
 |------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------|
-| (Pac-Trump VR)[https://github.com/Kaymo1990/PacTrumpVR]          | A Pac-Man style game in VR with Donald Trump in place of the Pac-Man ghosts. Players collect golf balls instead of palettes.  | Unity, C#, Android SDK, Google VR, Blender.      |
-| (Acebook)[https://github.com/riannemcc/acebook-RVs]              | A Facebook clone created by 4 Makers.                                                                                         | Ruby on Rails, RSpec, Javascript, JQuery.        |
-| (Makers BnB)[https://github.com/KZedan/bliss-makers]             | An Air B&B clone created by 4 Makers.                                                                                         | Ruby, Sinatra, Datamapper, PostgreSQL, Capybara. |
-| (Bowling Scorecard)[https://github.com/KZedan/bowling-challenge] | A Single Page App that calculates bowling scores.                                                                             | Javascript, JQuery,  Jasmine, HTML, CSS.         |
+| [Pac-Trump VR](https://github.com/Kaymo1990/PacTrumpVR)          | A Pac-Man style game in VR with Donald Trump in place of the Pac-Man ghosts. Players collect golf balls instead of palettes.  | Unity, C#, Android SDK, Google VR, Blender.      |
+| [Acebook](https://github.com/riannemcc/acebook-RVs)              | A Facebook clone created by 4 Makers.                                                                                         | Ruby on Rails, RSpec, Javascript, JQuery.        |
+| [Makers BnB](https://github.com/KZedan/bliss-makers)             | An Air B&B clone created by 4 Makers.                                                                                         | Ruby, Sinatra, Datamapper, PostgreSQL, Capybara. |
+| [Bowling Scorecard](https://github.com/KZedan/bowling-challenge) | A Single Page App that calculates bowling scores.                                                                             | Javascript, JQuery,  Jasmine, HTML, CSS.         |
 
 
 # Skills
