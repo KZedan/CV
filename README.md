@@ -11,7 +11,7 @@ skills. I am looking for a software engineering role to progress my skills furth
 
 Tech Skills: Ruby, C#, Javascript, Python, Rails, Sinatra, RSpec, Capybara, HTML, CSS, Jasmine, PostgreSQL.
 
-Behavioural Skills: XP, TDD, Agile, pair programming, whole-team projects, code reviews
+Behavioural Skills: XP, TDD, Agile, pair programming, whole-team projects, code reviews.
 
 # Projects
 
@@ -42,12 +42,12 @@ During Makers I was pairing with someone new everyday. I have paired with people
 
 ### Makers (June 24 2019 to Sep 13 2019)
 
-Europe's leading programming bootcamp, teaching good practices as well as coding skills
+Europe's leading programming bootcamp, teaching good practices as well as coding skills.
 
-* Curiosity and passion for code
-* Commitment to best practices and delivering watertight code
-* Independent learner and problem-solver
-* XP, TDD, Agile, pair programming
+* Curiosity and passion for code.
+* Commitment to best practices and delivering watertight code.
+* Independent learner and problem-solver.
+* XP, TDD, Agile, pair programming.
 * Ruby, Rails, Sinatra, RSpec, Capybara, HTML, CSS, JavaScript, jQuery, Jasmine, PostgreSQL, C#.
 
 
@@ -65,8 +65,8 @@ Europe's leading programming bootcamp, teaching good practices as well as coding
 
 # Hobbies
 
-* Driving, I love driving
-* Decent Coffee
-* Random meme browsing
-* Ping Pong
+* Driving, I love driving.
+* Decent Coffee.
+* Random meme browsing.
+* Ping Pong.
 
