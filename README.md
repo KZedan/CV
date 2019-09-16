@@ -27,7 +27,7 @@ Behavioural Skills: XP, TDD, Agile, pair programming, whole-team projects, code 
 
 ### Discipline
 
-As a drummer who tours Europe and the UK I practiced 2-3 hours everyday. I am also a fitness junkie and workout every single day, I also practice combat sports & martial arts, which requires high amounts of discipline.
+As a drummer who toured Europe and the UK I practiced 2-3 hours everyday. I am also a fitness junkie and workout every single day, I also practice combat sports & martial arts, which requires high amounts of discipline.
 
 ### Problem Solving
 
