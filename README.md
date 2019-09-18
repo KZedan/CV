@@ -1,17 +1,10 @@
 # Kareem Zedan
 
-I was 14 when I downloaded my first C++ book. I then got into music and started playing drums, started gigging and touring. Alongside my musician's career I worked in retail, sales and customer service.
+Software Engineer able to program across the whole stack using TDD. Experienced in different coding languages and frameworks. First-hand experience working in an Agile environment. Experience includes pair programming, working in groups and solo work.
 
-Fast forward 12 years I applied for my first coding course at Makers.
+As an ex Drummer and Customer Service specialist, I have a lot more to offer than my problem-solving skills. My career started in Sales which included cold calling while touring Europe with my band as a Drummer. I then moved on to Customer Service and Retail. I decided to change career to become a programmer and graduated from Makers on 13/09/2019.
 
-I started at Makers barely knowing how to do fizzbuzz in Ruby and graduated having made a VR Pac-Man game in C#.
-
-As a former sales rep, customer service specialist and catering assistant I have a lot more to offer than just problem solving
-skills. I am looking for a software engineering role to progress my skills further.
-
-Tech Skills: Ruby, C#, Javascript, Python, Rails, Sinatra, RSpec, Capybara, HTML, CSS, Jasmine, PostgreSQL.
-
-Behavioural Skills: XP, TDD, Agile, pair programming, whole-team projects, code reviews.
+ I am seeking a role where I can progress my skills further, preferably in a company that facilitates learning and provides growth opportunities.
 
 # Projects
 
@@ -56,17 +49,19 @@ Europe's leading programming bootcamp, teaching good practices as well as coding
 ### Thieves by the Code (June 2015 to January 2018)
 <em>Professional Drummer</em> in Thieves by the Code band. we toured all around Europe and the UK. Here's a youtube video of us https://www.youtube.com/watch?v=_1Yz-N5roPo.
 
-### Holland & Barrett (March 2017 to Sep 2018)
+### Holland & Barrett (September 2017 to December 2018)
 <em>Supervisor</em> Managed a small team of people, opened and closed shop. 
 
-### West Cornwall Pasty Co. (February 2015 to March 2017)
+### West Cornwall Pasty Co. (June 2015 to Sep 2017)
 <em>Supervisor</em> Started off as sales rep then was trained to Supervisor.
+
+### Go Mobile (February 2013 to June 2015)
+<em> Sales Rep</em> Selling mobile phones on contract.
 
 
 # Hobbies
 
 * Driving, I love driving.
 * Decent Coffee.
-* Random meme browsing.
 * Ping Pong.
 
