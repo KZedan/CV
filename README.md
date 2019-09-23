@@ -2,7 +2,7 @@
 
 Software Engineer able to program across the whole stack using TDD. Fundamental knowledge in different coding languages and frameworks. First-hand experience working in an Agile environment. I have done pair programming, worked in groups and worked solo.
 
-I am also a Drummer and ex-Customer Service specialist. I have been touring with my band while working in Customer Service and Retail. I decided to change career to become a programmer and graduated from Makers on 13/09/2019.
+I am also a Drummer and ex-Customer Service specialist. I had been touring with my band while working in Customer Service and Retail then decided to change career to become a programmer and graduated from Makers on 13/09/2019.
 
  I am seeking a role where I can learn new technologies and learn more about infastructrue. I have a big appetite for learning so a challenging role would be prefered. 
 
