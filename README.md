@@ -1,10 +1,10 @@
 # Kareem Zedan
 
-Software Engineer able to program across the whole stack using TDD. Experienced in different coding languages and frameworks. First-hand experience working in an Agile environment. Experience includes pair programming, working in groups and solo work.
+Software Engineer able to program across the whole stack using TDD. Fundamental knowledge in different coding languages and frameworks. First-hand experience working in an Agile environment. I have done pair programming, worked in groups and worked solo.
 
-As an ex Drummer and Customer Service specialist, I have a lot more to offer than my problem-solving skills. My career started in Sales which included cold calling while touring Europe with my band as a Drummer. I then moved on to Customer Service and Retail. I decided to change career to become a programmer and graduated from Makers on 13/09/2019.
+I am also a Drummer and ex-Customer Service specialist. I have been touring with my band while working in Customer Service and Retail. I decided to change career to become a programmer and graduated from Makers on 13/09/2019.
 
- I am seeking a role where I can progress my skills further, preferably in a company that facilitates learning and provides growth opportunities.
+ I am seeking a role where I can learn new technologies and learn more about infastructrue. I have a big appetite for learning so a challenging role would be prefered. 
 
 # Projects
 
