@@ -47,7 +47,7 @@ Europe's leading programming bootcamp, teaching good practices as well as coding
 # Experience
 
 ### Thieves by the Code (June 2015 to January 2018)
-<em>Professional Drummer</em> in Thieves by the Code band. we toured all around Europe and the UK. Here's a youtube video of us https://www.youtube.com/watch?v=_1Yz-N5roPo.
+<em>Professional Drummer</em> in Thieves by the Code band. we toured all around Europe and the UK. Here's a youtube video of me playing https://www.youtube.com/watch?v=eH2V3mdO6Qo.
 
 ### Holland & Barrett (September 2017 to December 2018)
 <em>Supervisor</em> Managed a small team of people, opened and closed shop. 
