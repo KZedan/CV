@@ -1,6 +1,6 @@
 # Kareem Zedan
 
-Software Engineer able to program across the whole stack using TDD. Fundamental knowledge in different coding languages and frameworks. First-hand experience working in an Agile environment. I have done pair programming, worked in groups and worked solo.
+I have just graduated from Makers I am looking for a full time position as a software developer. Able to learn new technology very quickly, evidence of this is the Pac-Trump project where I learned and used C# to make a VR game without any prior knowledge of the language. Learned my first programming language, Ruby, in just 3 days.
 
 I am also a Drummer and ex-Customer Service specialist. I had been touring with my band while working in Customer Service and Retail then decided to change career to become a programmer and graduated from Makers on 13/09/2019.
 
